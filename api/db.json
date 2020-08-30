@@ -1,3 +1,20 @@
 {
-    "streams": []
+  "streams": [
+    {
+      "title": "William",
+      "description": "My first stream",
+      "id": 1
+    },
+    {
+      "title": "Vol 2 Will",
+      "description": "The second stream of William",
+      "id": 2
+    },
+    {
+      "title": "Third stream",
+      "description": "Greater things coming!",
+      "userId": "112040042835419598012",
+      "id": 3
+    }
+  ]
 }
